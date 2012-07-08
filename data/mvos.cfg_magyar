@@ -1,0 +1,8 @@
+[vmachine]
+soundcard=/dev/dsp
+cdrom_device=
+cdrom_mountpoint=INSTALL_DIR
+fullscreen=false
+
+[game]
+language=magyar

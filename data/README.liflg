@@ -1,0 +1,32 @@
+
+			Theocracy: multilingual version 1.0
+
+========================================
+
+ABOUT
+=====
+
+	Theocracy is a real-time strategy game
+        in which you take control of one of the Aztec tribes.
+	Develop your chosen tribe to it's ultimate destiny
+         and resist the Spanish conquerors.
+	
+RUNNING THE GAME
+=============
+
+	Run "theocracy" to play or "theoserver" to start a dedicated server.
+
+NOTES
+====
+
+	- you will need Xephyr to run the game, as it requires a X server with 16 bit colours
+
+        - see ReadMe.txt in the installation directory for more information
+	
+TECHNICAL SUPPORT
+=============
+
+	Website: http://liflg.org/
+	Forum:   http://liflg.org/forum/
+
+The Loki Installers for Linux Gamers Team
